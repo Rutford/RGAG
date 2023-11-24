@@ -14,4 +14,4 @@ RGAG_Set5.fa;
 RGAG_Set6.fa;
 RGAG_Set7.fa;
 RGAG_Set8.fa;
-RGAG_Set9.fa;
+RGAG_Set9.fa.
